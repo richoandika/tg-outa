@@ -1,0 +1,27 @@
+{
+    "name": "tg-outa",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/richoandika/tg-outa.git"
+    },
+    "author": {
+        "name": "Richo Andika",
+        "email": "richoandika@null.net"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/richoandika/tg-outa/issues"
+    },
+    "homepage": "https://github.com/richoandika/tg-outa#readme",
+    "description": "",
+    "dependencies": {
+        "dotenv": "^16.4.5"
+    }
+}
